@@ -8,4 +8,4 @@
 `CTRL + B` - Toggle (show/hide) sidebar <br/>
 `CTRL + J` - Toggle (show/hide) panel <br/>
 `CTRL + K Z` - Choose zen mode view <br/>
-
+`CTRL + SHIFT + H` - Find in files <br/>
