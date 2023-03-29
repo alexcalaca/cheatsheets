@@ -6,4 +6,5 @@
 `CTRL + Alt + S` - Stage selected code <br/>
 `CTRL + Shift + X` - Go to Extensions <br/>
 `CTRL + B` - Toggle (show/hide) sidebar <br/>
+`CTRL + J` - Toggle (show/hide) panel <br/>
 
